@@ -8,9 +8,9 @@
 
 ## Play online (GitHub Pages)
 
-See **[DEPLOY.md](DEPLOY.md)** for setup steps.
+Live game: **https://surinyury.github.io/dickkicker/**
 
-Live URL (after deploy): **`https://<your-username>.github.io/dickkicker/`**
+See **[DEPLOY.md](DEPLOY.md)** if you need to update the live site.
 
 ---
 
